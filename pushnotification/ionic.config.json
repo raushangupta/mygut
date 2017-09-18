@@ -1,0 +1,8 @@
+{
+  "name": "pushnotification",
+  "app_id": "27aa0ebe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
